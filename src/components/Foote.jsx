@@ -69,7 +69,7 @@ const Foote = () => {
   {/* Copyright Section */}
   <div className="text-center">
     <p className="text-sm md:text-md text-gray-400">
-      © {new Date().getFullYear()} YourCompanyName. All Rights Reserved.
+      © {new Date().getFullYear()} YourCompanyName. All  them   Rights Reserved.
     </p>
   </div>
 </footer>
