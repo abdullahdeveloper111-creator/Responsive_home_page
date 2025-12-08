@@ -64,12 +64,12 @@ const Foote = () => {
   </div>
 
   {/* Divider */}
-  <div className="w-full h-[1px] bg-gray-700 my-8"></div>
+  <div className="w-full h-px bg-gray-700 my-8"></div>
 
   {/* Copyright Section */}
   <div className="text-center">
     <p className="text-sm md:text-md text-gray-400">
-      © {new Date().getFullYear()} YourCompanyName. All  them   Rights Reserved.
+      © {new Date().getFullYear()} YourCompanyName. All   of the   Rights Reserved.
     </p>
   </div>
 </footer>
